@@ -5,6 +5,7 @@
 - [ ] _16 oz._ Frozen Pineapple
 - [ ] _2.6_ oz. coconut milk
 - [ ] _3 tbs_ White sugar
+- [ ] _1/2_ banana
 - [ ] _pinch_ salt
 - [ ] _1 tsp._ lemon juice
 - [ ] _1 tsp._ lime juice
